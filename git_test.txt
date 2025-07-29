@@ -1,2 +1,5 @@
 # Limpiando el Repo
-print(Repo Limpio)
+print("Repo Limpio")
+
+# Codigo correcto
+print("El print siempre lleva comillas")
