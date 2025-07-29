@@ -1,12 +1,2 @@
-# Hello
-
-#Agregando otro commit
-
-x = 1
-y = 5
-
-result = x + 5
-
-# Agregando un commit mas
-
-print("Hola")
+# Limpiando el Repo
+print(Repo Limpio)
